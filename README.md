@@ -1,5 +1,4 @@
 # FINE 3300 – Assignment 1: Exchange Rate Calculator
-## Maria Kukovska
 
 ## Project Description
 
