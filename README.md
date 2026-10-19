@@ -15,12 +15,6 @@ The repository contains two versions of the exchange-rate calculator. The origin
 - BankOfCanadaExchangeRate.2026.csv – The exchange-rate data file used by the programs.
 - README.md – This file, which describes the project and explains how to run the programs.
 
-## Requirements
-
-- Python 3
-- The CSV file listed above
-- Visual Studio Code or another Python editor
-
 ## How to Run the Programs
 
 1. Download or clone the repository to your computer.
