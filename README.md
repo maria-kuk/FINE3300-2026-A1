@@ -27,9 +27,9 @@ The repository contains two versions of the exchange-rate calculator. The origin
 
 6. Follow the prompts to enter the amount, starting currency (USD or CAD), and target currency (USD or CAD).
 
-To run the AI-generated version, enter:
+   To run the AI-generated version, enter:
 
-python3 ExchangeRatesAI.py
+   python3 ExchangeRatesAI.py
 
 ## Conversion Method
 
